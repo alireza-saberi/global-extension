@@ -1,0 +1,18 @@
+/*
+* @Author: Alan Saberi
+* @Date:   2017-01-12 12:24:20
+* @Last Modified by:   Alan Saberi
+* @Last Modified time: 2017-01-12 12:25:27
+*/
+html,
+body {
+    font: 13px/18px 'Roboto', sans-serif;
+    width: 250px;
+    height: 425px;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333333;
+    text-align: left;
+    overflow: hidden;
+}
